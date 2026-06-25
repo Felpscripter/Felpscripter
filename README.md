@@ -120,7 +120,7 @@ Sou desenvolvedor Web fullstack e QA com experiência de trabalho. Tenho uma gra
 <br/>
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=5"/>
 
 ### Estatísticas
 
