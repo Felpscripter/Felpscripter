@@ -18,7 +18,7 @@ Um grande entusiasta de Hardware e Software tentando evoluir a cada dia.
 
 <img 
   src="batmancoder.png"
-  width="220"
+  width="100%"
 />
 
 </td>
