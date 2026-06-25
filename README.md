@@ -4,23 +4,6 @@
 
 Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe. Sou desenvolvedor Web fullstack e QA com experiência de trabalho. Tenho uma grande paixão pela área de TI, na qual eu já me dedico a aprender desde a minha infância quando tive meu primeiro contato com computadores e videogames. Um grande entusiasta de Hardware e Software tentando evoluir a cada dia.
 
- <p>
-    <a href="[https://github.com/Felpscripter?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Felpscripter?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Felpscripter?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Felpscripter?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### Linguagens e Tecnologias
@@ -127,6 +110,8 @@ Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe. Sou desenvolvedor Web full
 <br/>
 <br/>
 
+---
+
 ### Estatísticas
 
 <p align="left">
@@ -135,6 +120,8 @@ Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe. Sou desenvolvedor Web full
     src="https://github-readme-stats.vercel.app/api?username=Felpscripter&show_icons=true&theme=tokyonight&count_private=true"
   />
 </p>
+
+---
 
 ### Contribuições
 
