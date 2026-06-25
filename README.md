@@ -1,7 +1,7 @@
 <img
   align="right"
   src="batmancoder.png"
-  width="500"
+  width="510"
 />
 
 <h2>Luiz Felipe Ribeiro</h2>
