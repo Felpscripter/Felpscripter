@@ -122,6 +122,8 @@ Sou desenvolvedor Web fullstack e QA com experiência de trabalho. Tenho uma gra
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=5"/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Felpscripter/Felpscripter/output/github-snake.svg">
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
