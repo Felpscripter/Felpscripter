@@ -16,12 +16,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Felpscripter
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: peaceiris/actions-gh-pages@v4
+          outputs: |
+            dist/github-snake.svg?color_snake=blue&color_dots=%231a0000,%23330000,%23660000,%23990000,%23ff0000
+
+      - uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
