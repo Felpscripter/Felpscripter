@@ -135,3 +135,9 @@ Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe. Sou desenvolvedor Web full
     src="https://github-readme-stats.vercel.app/api?username=Felpscripter&show_icons=true&theme=tokyonight&count_private=true"
   />
 </p>
+
+### Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Felpscripter/Felpscripter/output/github-contribution-grid-snake-dark.svg">
+</p>
