@@ -4,7 +4,7 @@
 
 Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe. Sou desenvolvedor Web fullstack e QA com experiência de trabalho. Tenho uma grande paixão pela área de TI, na qual eu já me dedico a aprender desde a minha infância quando tive meu primeiro contato com computadores e videogames. Um grande entusiasta de Hardware e Software tentando evoluir a cada dia.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=60"/>
 
 ### Linguagens e Tecnologias
 
@@ -121,9 +121,7 @@ Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe. Sou desenvolvedor Web full
   />
 </p>
 
----
-
-### Contribuições
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Felpscripter/Felpscripter/output/github-snake.svg">
