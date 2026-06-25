@@ -4,7 +4,7 @@
   width="500"
 />
 
-# Luiz Felipe Ribeiro
+<h2>Luiz Felipe Ribeiro</h2>
 
 **`Desenvolvedor FullStack & QA`**
 
