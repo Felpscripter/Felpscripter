@@ -10,7 +10,7 @@
 
 Hello! My name is Luiz Felipe and I am 22 years old.
 
-I am a back-end developer and QA. I have a deep passion for the IT field—a passion that dates back to my childhood, when I first encountered computers and video games. As a hardware and software enthusiast, I strive to grow and improve every day.
+I am a back-end developer and QA. I have a deep passion for the IT field a passion that dates back to my childhood, when I first encountered computers and video games. As a hardware and software enthusiast, I strive to grow and improve every day.
 
 <br clear="right"/>
 
