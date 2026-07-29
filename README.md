@@ -6,17 +6,17 @@
 
 <strong>Luiz Felipe Ribeiro</strong>
 
-**`Desenvolvedor FullStack & QA`**
+**`Backend Developer & QA`**
 
-Me chamo Luiz Felipe, tenho 22 anos e sou de Sergipe.
+Hello! My name is Luiz Felipe and I am 22 years old.
 
-Sou desenvolvedor web e QA com experiência de trabalho. Tenho uma grande paixão pela área de TI, na qual já me dedico desde a infância quando tive meu primeiro contato com computadores e videogames. Um grande entusiasta de Hardware e Software tentando evoluir a cada dia.
+I am a back-end developer and QA. I have a deep passion for the IT field—a passion that dates back to my childhood, when I first encountered computers and video games. As a hardware and software enthusiast, I strive to grow and improve every day.
 
 <br clear="right"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=10"/>
 
-### Linguagens e Tecnologias
+### Languages ​​and Technologies
 
 <img 
     align="left" 
