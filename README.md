@@ -4,13 +4,17 @@
   width="510"
 />
 
-<strong>Luiz Felipe Ribeiro</strong>
+## Luiz Felipe Ribeiro
 
-**`Backend Developer & QA`**
+### Back-end Developer & QA
 
-Hello! My name is Luiz Felipe and I am 22 years old.
+Hello! I'm Luiz Felipe, a Back-end Developer and Quality Assurance (QA) professional from Brazil.
 
-I am a back-end developer and QA. I have a deep passion for the IT field a passion that dates back to my childhood, when I first encountered computers and video games. As a hardware and software enthusiast, I strive to grow and improve every day.
+My passion for technology began in childhood, when I discovered computers and video games. Over the years, that curiosity evolved into a strong interest in software development and quality assurance.
+
+Currently, I work as a Web Developer while building my career in QA. I enjoy developing reliable back-end applications and contributing to software quality through manual testing, bug reporting and continuous improvement.
+
+I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, SQL, Docker, and software testing. My goal is to grow into a Software Engineer capable of designing scalable systems and delivering high-quality solutions.
 
 <br clear="right"/>
 
