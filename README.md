@@ -1,7 +1,7 @@
 <img
   align="right"
   src="batmancoder.png"
-  width="510"
+  width="300"
 />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=25&duration=4500&pause=600&color=2E33F7&background=FFFFFF00&width=435&height=40&lines=Hello%2C+Developer!;My+name+is+Felipe;Welcome+to+my+profile!+" alt="Typing SVG" /></a>
@@ -15,7 +15,6 @@ My passion for technology began in childhood, when I discovered computers and vi
 Currently, I work as a Web Developer while building my career in QA. I enjoy developing reliable back-end applications and contributing to software quality through manual testing, bug reporting and continuous improvement.
 
 I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, SQL, Docker, and software testing. My goal is to grow into a Software Engineer capable of designing scalable systems and delivering high-quality solutions.
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=10"/>
 
