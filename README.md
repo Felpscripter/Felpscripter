@@ -4,9 +4,9 @@
   width="510"
 />
 
-## Luiz Felipe Ribeiro
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=25&duration=4500&pause=600&color=2E33F7&background=FFFFFF00&width=435&height=40&lines=Hello%2C+Developer!;My+name+is+Felipe;Welcome+to+my+profile!+" alt="Typing SVG" /></a>
 
-### Back-end Developer & QA
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=25&duration=4500&pause=600&color=2E33F7&background=FFFFFF00&repeat=false&width=435&height=40&lines=Backend+Developer+%7C+QA" alt="Typing SVG" /></a>
 
 Hello! I'm Luiz Felipe, a Back-end Developer and Quality Assurance (QA) professional from Brazil.
 
@@ -16,7 +16,6 @@ Currently, I work as a Web Developer while building my career in QA. I enjoy dev
 
 I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, SQL, Docker, and software testing. My goal is to grow into a Software Engineer capable of designing scalable systems and delivering high-quality solutions.
 
-<br clear="right"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=10"/>
 
@@ -120,5 +119,3 @@ I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
-
-<br/>
