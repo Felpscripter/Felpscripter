@@ -21,25 +21,25 @@ I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, 
 ### Languages ​​and Technologies
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/php/ffffff" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.simpleicons.org/php/512BD4" width="40" height="40" alt="PHP" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/laravel/ffffff" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.simpleicons.org/laravel/512BD4" width="40" height="40" alt="Laravel" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/react/ffffff" width="40" height="40" alt="React" />
+  <img src="https://cdn.simpleicons.org/react/512BD4" width="40" height="40" alt="React" />
   &nbsp;
   <img src="./.Assets/Icons/devicon-plain--csharp.svg" width="40" height="40" alt=".NET" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/python/ffffff" width="40" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/python/512BD4" width="40" height="40" alt="Python" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mysql/512BD4" width="40" height="40" alt="MySQL" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="40" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/mongodb/512BD4" width="40" height="40" alt="MongoDB" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/git/ffffff" width="40" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/git/512BD4" width="40" height="40" alt="Git" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/docker/ffffff" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/docker/512BD4" width="40" height="40" alt="Docker" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" height="40" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/postman/512BD4" width="40" height="40" alt="Postman" />
   &nbsp;
-  <img src="https://cdn.simpleicons.org/linux/ffffff" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/linux/512BD4" width="40" height="40" alt="Linux" />
 </p>
