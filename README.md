@@ -27,7 +27,7 @@ I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, 
   &nbsp;
   <img src="https://cdn.simpleicons.org/react/512BD4" width="40" height="40" alt="React" />
   &nbsp;
-  <img src="./.Assets/Icons/devicon-plain--csharp.svg" width="40" height="40" alt=".NET" />
+  <img src="./Assets/Icons/csharp.svg" width="40" height="40" alt=".NET" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/python/512BD4" width="40" height="40" alt="Python" />
   &nbsp;
