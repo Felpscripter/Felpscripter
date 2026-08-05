@@ -20,101 +20,26 @@ I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, 
 
 ### Languages ​​and Technologies
 
-<img 
-    align="left" 
-    alt="PHP"
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Laravel"
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="React"
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="C#"
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python"
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="MongoDB"
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Docker"
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Postman"
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Linux"
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
-/>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/php/ffffff" width="40" height="40" alt="PHP" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/ffffff" width="40" height="40" alt="Laravel" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/react/ffffff" width="40" height="40" alt="React" />
+  &nbsp;
+  <img src="./.Assets/Icons/devicon-plain--csharp.svg" width="40" height="40" alt=".NET" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/python/ffffff" width="40" height="40" alt="Python" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/ffffff" width="40" height="40" alt="MySQL" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/ffffff" width="40" height="40" alt="MongoDB" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/git/ffffff" width="40" height="40" alt="Git" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/docker/ffffff" width="40" height="40" alt="Docker" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/postman/ffffff" width="40" height="40" alt="Postman" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/ffffff" width="40" height="40" alt="Linux" />
+</p>
