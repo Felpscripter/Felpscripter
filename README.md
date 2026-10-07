@@ -1,45 +1,46 @@
-<img
-  align="right"
-  src="batmancoder.png"
-  width="300"
-/>
+<div align="center">
+  <h1>Luiz Felipe Ribeiro da Silva</h1>
+  <p>QA Engineer</p>
+  <p><b><i>A Professional Bug Exterminator</i></b></p>  
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=25&duration=4500&pause=600&color=2E33F7&background=FFFFFF00&width=435&height=40&lines=Hello%2C+Developer!;My+name+is+Felipe;Welcome+to+my+profile!+" alt="Typing SVG" /></a>
+### 🛠️ Stack & Tools
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=25&duration=4500&pause=600&color=2E33F7&background=FFFFFF00&repeat=false&width=435&height=40&lines=Backend+Developer+%7C+QA" alt="Typing SVG" /></a>
+```yaml
+automation:
+  - Playwright
+  - pytest
+  - Postman
+  - Chrome DevTools
+languages:
+  - Python
+  - SQL
+infra-ci/cd:
+  - Docker
+  - GitHub Actions
+  - Git / GitLab
+  - Linux CLI
+databases:
+  - MySQL
+management:
+  - Jira
+```
 
-Hello! I'm Luiz Felipe, a Back-end Developer and Quality Assurance (QA) professional from Brazil.
+<br>
+<div align="center">
+  <a href="https://felpscripter.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/devfeliperibeiro">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+<br>
 
-My passion for technology began in childhood, when I discovered computers and video games. Over the years, that curiosity evolved into a strong interest in software development and quality assurance.
-
-Currently, I work as a Web Developer while building my career in QA. I enjoy developing reliable back-end applications and contributing to software quality through manual testing, bug reporting and continuous improvement.
-
-I'm constantly expanding my knowledge in technologies such as PHP, Laravel, C#, SQL, Docker, and software testing. My goal is to grow into a Software Engineer capable of designing scalable systems and delivering high-quality solutions.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:0066ff&height=10"/>
-
-### Languages ​​and Technologies
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/php" width="40" height="40" alt="PHP" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/laravel" width="40" height="40" alt="Laravel" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/react" width="40" height="40" alt="React" />
-  &nbsp;
-  <img src="./Assets/Icons/csharp.svg" width="40" height="40" alt=".NET" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/python" width="40" height="40" alt="Python" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mysql" width="40" height="40" alt="MySQL" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/mongodb" width="40" height="40" alt="MongoDB" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/git" width="40" height="40" alt="Git" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/docker" width="40" height="40" alt="Docker" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/postman" width="40" height="40" alt="Postman" />
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/linux" width="40" height="40" alt="Linux" />
-</p>
+<div align="center">
+  <code>$ pytest --headed</code><br/>
+  <code>✓ test_valid_login 1.4s</code><br/>
+  <code>✓ test_api_status_200 0.3s</code><br/>
+  <code>✓ test_query_orders 0.2s</code><br/>
+  <b>3 passed in 4.21s</b>
+</div>
