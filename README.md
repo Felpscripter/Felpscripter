@@ -1,46 +1,47 @@
 <div align="center">
   <h1>Luiz Felipe Ribeiro da Silva</h1>
   <p>QA Engineer</p>
-  <p><b><i>A Professional Bug Exterminator</i></b></p>  
-</div>
 
-### 🛠️ Stack & Tools
-
-```yaml
-automation:
-  - Playwright
-  - pytest
-  - Postman
-  - Chrome DevTools
-languages:
-  - Python
-  - SQL
-infra-ci/cd:
-  - Docker
-  - GitHub Actions
-  - Git / GitLab
-  - Linux CLI
-databases:
-  - MySQL
-management:
-  - Jira
-```
-
-<br>
-<div align="center">
   <a href="https://felpscripter.github.io">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/devfeliperibeiro">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge" alt="LinkedIn"/>
   </a>
 </div>
+
+## Sobre mim
+
+Atuo com qualidade de software, trabalhando principalmente com testes de aplicações web e APIs.
+
+No dia a dia, faço testes manuais, analiso requisitos, valido APIs, consultas SQL e comportamento da aplicação. Também estou focado em automação de testes utilizando Python, Pytest e Playwright.
+
+Tenho interesse em entender o software além do teste em si, incluindo código, banco de dados, ambientes e CI/CD.
+
+## Ferramentas
+
+* **Testes:** Playwright, Pytest, Postman, Chrome DevTools
+* **Linguagens:** Python, SQL
+* **Banco de dados:** MySQL
+* **CI/CD e ambiente:** Docker, GitHub Actions, Linux
+* **Versionamento:** Git, GitLab
+* **Gestão:** Jira
+
+## O que você vai encontrar aqui
+
+Este perfil reúne projetos, estudos e experimentos relacionados a:
+
+* Automação de testes
+* Testes de API
+* Testes de aplicações web
+* SQL e validação de dados
+* Python aplicado a QA
+* CI/CD
+* Docker
+* Boas práticas de qualidade
+
 <br>
 
 <div align="center">
-  <code>$ pytest --headed</code><br/>
-  <code>✓ test_valid_login 1.4s</code><br/>
-  <code>✓ test_api_status_200 0.3s</code><br/>
-  <code>✓ test_query_orders 0.2s</code><br/>
-  <b>3 passed in 4.21s</b>
+  <sub>Construindo software com qualidade, um teste de cada vez.</sub>
 </div>
