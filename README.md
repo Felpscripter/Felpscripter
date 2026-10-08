@@ -26,21 +26,6 @@ Tenho interesse em entender o software além do teste em si, incluindo código, 
 * **Versionamento** — Git e GitLab
 * **Processo** — Jira, análise de requisitos e critérios de aceitação
 
-## O que você vai encontrar aqui
-
-Este perfil reúne projetos, estudos e experimentos relacionados a:
-
-* Automação de testes
-* Testes de API
-* Testes de aplicações web
-* SQL e validação de dados
-* Python aplicado a QA
-* CI/CD
-* Docker
-* Boas práticas de qualidade
-
-<br>
-
 <div align="center">
   <sub>Construindo software com qualidade, um teste de cada vez.</sub>
 </div>
